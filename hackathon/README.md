@@ -7,7 +7,7 @@
 - The presentation is SUPER important, whether it be a video or a slide deck. Each hackathon has a ton of submissions, and not all projects will have the chance to make it to the code review stage. Make sure your presentation is compelling enough to grab the judges and make it to the next round.
 - Create a Twitter account early, and start sharing your project and updates to garner early community support
 - Create milestones for yourself. Plan out specific dates you want to have certain things done and try to stick to close to this as possible. The worst thing you can do is come in with no plan.
-- Start following Solana devs and community members from your Twitter account. A good start is following this LIST.
+- Start following Solana devs and community members from your Twitter account. A good start is following this LIST.   
 
 ## RPCs
 
@@ -17,6 +17,8 @@
 
 ## Resources, Projects and Tutorials
 
+:zap: **Get up & running fast with your Hackathon project by bootstrapping a Solana template dApp with `npx create-solana-dapp`!**
+___
 - [Solana Cookbook](https://solanacookbook.com/) - Provides essential concepts and code snippets for building applications on Solana.
 - [SolDev](https://soldev.app/) - A Solana content aggregator with easy discoverability, including tutorials, tools, reference implementations, and more.
 - [Figment Learn](https://learn.figment.io/protocols/solana) - Go from zero to one by learning the basics of development on the Solana blockchain.
