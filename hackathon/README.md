@@ -17,7 +17,7 @@
 
 ## Resources, Projects and Tutorials
 
-:zap: **Get up & running fast with your Hackathon project by bootstrapping a Solana template dApp with `npx create-solana-dapp`!**
+:zap: Bootstrap an entire [Solana dApp Template](https://github.com/solana-developers/create-solana-app) by running: `npx create-solana-dapp`!
 ___
 - [Solana Cookbook](https://solanacookbook.com/) - Provides essential concepts and code snippets for building applications on Solana.
 - [SolDev](https://soldev.app/) - A Solana content aggregator with easy discoverability, including tutorials, tools, reference implementations, and more.
