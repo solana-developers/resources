@@ -19,7 +19,7 @@
 
 :zap: Bootstrap an entire [Solana dApp Template](https://github.com/solana-developers/create-solana-app) by running: `npx create-solana-dapp`!
 ___
-- [Solana Cookbook](https://solanacookbook.com/) - Provides essential concepts and code snippets for building applications on Solana.
+- :orange_book: [Solana Cookbook](https://solanacookbook.com/) - Provides essential concepts and code snippets for building applications on Solana.
 - :crab: [Solana Program Examples in Rust](https://github.com/solana-developers/program-examples) - A collection of simple on-chain program how-to's in Rust for both Solana's native Rust crates and Anchor.
 - [SolDev](https://soldev.app/) - A Solana content aggregator with easy discoverability, including tutorials, tools, reference implementations, and more.
 - [Figment Learn](https://learn.figment.io/protocols/solana) - Go from zero to one by learning the basics of development on the Solana blockchain.
