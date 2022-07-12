@@ -17,7 +17,9 @@
 
 ## Resources, Projects and Tutorials
 
-:zap: Bootstrap an entire [Solana dApp Template](https://github.com/solana-developers/create-solana-app) by running: `npx create-solana-dapp`!
+:zap: Bootstrap an entire [Solana dApp Template](https://github.com/solana-developers/create-solana-app) by running: `npx create-solana-dapp`!   
+
+This CLI command utilizes dApp template scaffolds that can be found here for [Next](https://github.com/solana-developers/solana-dapp-next), [Vue](https://github.com/solana-developers/dapp-scaffold-vue), and [Svelte](https://github.com/solana-developers/dapp-scaffold-svelte).
 ___
 - :orange_book: [Solana Cookbook](https://solanacookbook.com/) - Provides essential concepts and code snippets for building applications on Solana.
 - :crab: [Solana Program Examples in Rust](https://github.com/solana-developers/program-examples) - A collection of simple on-chain program how-to's in Rust for both Solana's native Rust crates and Anchor.
