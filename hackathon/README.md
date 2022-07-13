@@ -45,15 +45,6 @@ This CLI command utilizes dApp template scaffolds that can be found here for [Ne
 
 [Public RPC Rate limits][13]
 
-### Alchemy
-
-[Alchemy][14] now supports builders on Solana, and they’re offering free access for your hackathon team! Tap into their full suite of tooling including easy debugging, strong security and ample usage [here].
-
-### Quicknode
-
-[QuickNode][15] helps companies build, deploy, and scale any blockchain-based application. We power more than 70B monthly Solana requests as the #1 RPC provider for the ecosystem. We also offer access to archive data, NFT data, and event monitoring through our higher-level Solana APIs.
-
-Signup for our **free tier** [here][16], or **request a coupon code** [here][17] **for a paid plan**. Summer Camp participants get two months free of our Scale plan ($598 value) for best in class performance globally. If you have technical questions along the way, feel free to reach out in our [Telegram group for Solana x QN Hackers][18].
 
 [1]: https://solana.com/discord
 [2]: https://solanacookbook.com/
