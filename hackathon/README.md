@@ -16,6 +16,8 @@
     - Web IDE to quickly test and debug Solana smart contracts.
 - [Anchor Book][5]
     - Collection of Anchor documentation and references.
+- [Solana Program Examples][21]
+    - A list of curated examples for a wide range of use cases implemented using on-chain programs.
 
 ⚡ Bootstrap an entire [Solana dApp Template][20] by running: npx create-solana-dapp!
 
@@ -66,3 +68,4 @@ This CLI command utilizes dApp template scaffolds that can be found here for [Ne
 [18]: https://t.me/+XHbOSJWKCYgxNGRh
 [19]: https://solana.stackexchange.com/
 [20]: https://github.com/solana-developers/create-solana-app
+[21]: https://github.com/solana-developers/program-examples
