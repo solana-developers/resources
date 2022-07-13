@@ -1,62 +1,77 @@
-# Hackathon Developer Resources and Info
+# Resources and Info
 
-## Pro Tips for a Successful Hackathon
+## Need a team?
 
-- Need some help? You can find a team HERE.
-- The hackathon has a hard cutoff date/time, so if it looks like you might miss it, submit your project early. You can always update it after you submit it!
-- The presentation is SUPER important, whether it be a video or a slide deck. Each hackathon has a ton of submissions, and not all projects will have the chance to make it to the code review stage. Make sure your presentation is compelling enough to grab the judges and make it to the next round.
-- Create a Twitter account early, and start sharing your project and updates to garner early community support
-- Create milestones for yourself. Plan out specific dates you want to have certain things done and try to stick to close to this as possible. The worst thing you can do is come in with no plan.
-- Start following Solana devs and community members from your Twitter account. A good start is following this LIST.   
+- [Solana Tech][1] - Main Solana Discord channel
+    - build-a-team - Find other builders to form a team
+    - hack-general - General discussion and questions about the hackathon
 
-## RPCs
+## Resources
+
+- [Solana Cookbook][2]
+    - Essential concepts and code snippets for building applications on Solana.
+- [Solana Course][3]
+    - Quickstart your Solana development with this course
+- [Solana Playground][4]
+    - Web IDE to quickly test and debug Solana smart contracts.
+- [Anchor Book][5]
+    - Collection of Anchor documentation and references.
+
+⚡ Bootstrap an entire [Solana dApp Template][20] by running: npx create-solana-dapp!
+
+This CLI command utilizes dApp template scaffolds that can be found here for [Next](https://github.com/solana-developers/solana-dapp-next), [Vue](https://github.com/solana-developers/dapp-scaffold-vue), and [Svelte](https://github.com/solana-developers/dapp-scaffold-svelte).
+
+
+## Developer Support
+
+- [Solana Stack Exchange][19]
+
+## References
+
+- [Solana Docs][6]
+- [SMS SDK][7]
+- [Solana Pay][8]
+- [Governance / DAOs][9]
+- [Solana Developer References][10]
+- [Solana Scaffold][11]
+- [Solana SDKs][12]
+
+## RPC Infrastructure
+
+### Solana Public RPCs
 
 - Mainnet - api.mainnet-beta.solana.com
 - Devnet - api.devnet.solana.com
-- Testnet - api.testnet.solana.com
 
-## Resources, Projects and Tutorials
+[Public RPC Rate limits][13]
 
-:zap: Bootstrap an entire [Solana dApp Template](https://github.com/solana-developers/create-solana-app) by running: `npx create-solana-dapp`!   
+### Alchemy
 
-This CLI command utilizes dApp template scaffolds that can be found here for [Next](https://github.com/solana-developers/solana-dapp-next), [Vue](https://github.com/solana-developers/dapp-scaffold-vue), and [Svelte](https://github.com/solana-developers/dapp-scaffold-svelte).
-___
-- :orange_book: [Solana Cookbook](https://solanacookbook.com/) - Provides essential concepts and code snippets for building applications on Solana.
-- :crab: [Solana Program Examples in Rust](https://github.com/solana-developers/program-examples) - A collection of simple on-chain program how-to's in Rust for both Solana's native Rust crates and Anchor.
-- [SolDev](https://soldev.app/) - A Solana content aggregator with easy discoverability, including tutorials, tools, reference implementations, and more.
-- [Figment Learn](https://learn.figment.io/protocols/solana) - Go from zero to one by learning the basics of development on the Solana blockchain.
-- [Build a Web3 App on Solana](https://buildspace.so/learn-solana?utm_source=solana.com) - Ship an epic Web3 app on Solana with React and Rust.
-- [Questbook x Superteam](https://startonsolana.com/) - Learn how to build on the world’s fastest blockchain by doing these quests and start contributing to ecosystem projects right away!
-- [Escrow Program Guide](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/) - An introductory guide for building a custom program (smart contact) on Solana using a simple escrow program example.
-- [Intro To Anchor Framework](https://project-serum.github.io/anchor/getting-started/introduction.html) - Anchor is a framework that makes building Solana applications easier by abstracting a lot of the heavy lifting.
-- [A Guide to Fullstack Development on Solana](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - Learn how to build end-to-end products on Solana with this tutorial covering React, Anchor, Rust, and Phantom.
-- [Intro to Solana Blockchain Concepts](https://2501babe.github.io/posts/solana101.html) - A colorful walkthrough and explanation of the Solana blockchain with Ethererum comparisons.
-- [Solana Bootcamp Playlist](https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0) - Not sure what to do? Watch this tech-heavy Solana bootcamp recorded live in Chicago.
+[Alchemy][14] now supports builders on Solana, and they’re offering free access for your hackathon team! Tap into their full suite of tooling including easy debugging, strong security and ample usage [here].
 
-## Developer Discord Support
+### Quicknode
 
-**Please use the proper support servers or you will just be re-directed to them**
+[QuickNode][15] helps companies build, deploy, and scale any blockchain-based application. We power more than 70B monthly Solana requests as the #1 RPC provider for the ecosystem. We also offer access to archive data, NFT data, and event monitoring through our higher-level Solana APIs.
 
-- [Solana Tech](https://discordapp.com/invite/pquxPsq) - This is the main Solana technical support Discord. The most relevant channels are:
-  - *“developer-support”* - Use this for all your general Solana protocol, SPL and web3 questions. This channel is for technical questions only.
-  - *“riptide-general”* - Use for general, non-technical questions related to the hackathon.
-  - *“riptide-build-team”* channel for locating teammates to join your hackathon project.
-- [Anchor Framework](https://discord.gg/ZCHmqvXgDw) - Anchor Framework is a framework and IDL for generating Rust programs and in many cases can speed up development time. If you’re looking for Anchor support, this is the place — the Solana Tech Discord is focused on Solana and Rust native support.
-- [Metaplex](https://discord.gg/metaplex) - Metaplex is a platform and suite of smart contracts and tools for working with NFTs and the NFT standard on Solana. This is the best channel for NFT support.
-- [Governance/DAOs](https://discord.com/invite/VsPbrK2hJk) - Use this Discord for all things related to governance and DAOs.
+Signup for our **free tier** [here][16], or **request a coupon code** [here][17] **for a paid plan**. Summer Camp participants get two months free of our Scale plan ($598 value) for best in class performance globally. If you have technical questions along the way, feel free to reach out in our [Telegram group for Solana x QN Hackers][18].
 
-## Reference Docs
-
-- [Solana Docs](https://docs.solana.com/) - The main technical documentation for the Solana blockchain
-- [SPL Docs](https://spl.solana.com/) - The Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime.
-- [Metaplex Docs](https://docs.metaplex.com/) - The main technical documentation for Metaplex and NFTs on Solana.
-- [Governance / DAOs](https://docs.realms.today/) - The main technical documenation for governance/DAOs on Solana.
-- [Solana Pay](https://github.com/solana-labs/solana-pay/tree/master/core) - The core documentation for Solana Pay, a new payments protocol.
-
-## Additional SolDev Content Categories
-- [Scaffolds](https://soldev.app/library/scaffolds)
-- [SDKs and Frameworks](https://soldev.app/library/sdk)
-- [Tools](https://soldev.app/library/tools)
-- [Implementations](https://soldev.app/library/implementations)
-- [Security](https://soldev.app/library/security)
-- [Solana Twitter Threads](https://soldev.app/library/threads)
+[1]: https://solana.com/discord
+[2]: https://solanacookbook.com/
+[3]: https://soldev.app/course
+[4]: https://beta.solpg.io/
+[5]: https://www.anchor-lang.com/
+[6]: https://docs.solana.com/
+[7]: https://github.com/solana-mobile/solana-mobile-stack-sdk
+[8]: https://github.com/solana-labs/solana-pay/tree/master/core
+[9]: https://docs.realms.today/
+[10]: https://soldev.app/
+[11]: https://github.com/solana-labs/dapp-scaffold
+[12]: https://soldev.app/library/sdk
+[13]: https://docs.solana.com/cluster/rpc-endpoints#rate-limits
+[14]: https://www.alchemy.com/solana
+[15]: https://www.alchemy.com/solana
+[16]: https://www.quicknode.com/chains/sol?utm_source=solanasummercamp22&utm_campaign=generic&utm_content=sign-up&utm_medium=solanasummercamp22
+[17]: https://quiknode.typeform.com/to/LqGbgN4V
+[18]: https://t.me/+XHbOSJWKCYgxNGRh
+[19]: https://solana.stackexchange.com/
+[20]: https://github.com/solana-developers/create-solana-app
